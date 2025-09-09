@@ -19,7 +19,8 @@ Why are the particles not working?
 
 I don't like a certain particle, how do I disable it?
 
-    You can download Respackopts and LibJF to have the ability to disable any of the particles in the pack via the config button in the resource pack menu.
+    You can download Respackopts and LibJF to have the ability to disable any of the particles in the
+    pack via the config button in the resource pack menu.
 
 I have other questions/issues...
 
