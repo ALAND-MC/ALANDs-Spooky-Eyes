@@ -1,0 +1,17 @@
+{
+   "targets": ["minecraft:chorus_plant"],
+   "particle_emitters": [
+     {
+       "particle": "davidparticles:monolith_eye",
+       "chance": "0.0025",
+       "x": "rand()", 
+       "z": "rand()",
+       "y": "rand()*0.5 + 2.5",
+       "dx": "0",
+       "dy": "0.001 + rand()*0.001",
+       "dz": "0",
+       "biomes": ["minecraft:end_highlands"],
+       "spawn_location": "lower_corner"
+     }
+     ]
+}

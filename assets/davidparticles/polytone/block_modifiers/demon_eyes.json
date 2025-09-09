@@ -1,0 +1,17 @@
+{
+   "targets": ["minecraft:leaf_litter"],
+   "particle_emitters": [
+     {
+       "particle": "davidparticles:demon_eyes",
+       "chance": "((DAY_TIME%24000)>13000) * 0.0005",
+       "x": "rand()", 
+       "z": "rand()",
+       "y": "rand()*0.5 + 2.5",
+       "dx": "0",
+       "dy": "0.001 + rand()*0.001",
+       "dz": "0",
+       "biomes": ["minecraft:dark_forest"],
+       "spawn_location": "lower_corner"
+     }
+     ]
+}

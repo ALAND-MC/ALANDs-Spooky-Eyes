@@ -1,0 +1,11 @@
+{
+    id: "ASE",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        Creaking_eyes: true,
+		Demon_eyes: true,
+		Herobrine_eyes: true,
+        Monolith_eye: true
+    }
+}
