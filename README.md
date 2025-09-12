@@ -1,5 +1,4 @@
 # ALAND's Spooky Eyes
-👀 Adds spooky eyes at night in various biomes to give them an eerie atmosphere.
 
 A neat little resource pack which spawns different spooky eyes at night in certain biomes to give them an eerie atmosphere and the feeling of being watched.
 
